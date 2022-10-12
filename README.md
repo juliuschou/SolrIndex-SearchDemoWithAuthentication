@@ -5,6 +5,8 @@ The main refercne of this repository is [Apache Solr in Java: Using Apache SolrJ
 ## Main idea
 How to authenticate with Solr Server and then update index and search for documents by the use of SolrJ (Solr Client Java API)?
 
+## About Apache Solr Basic Authentication
+You can read [Basic Authentication Plugin](https://solr.apache.org/guide/8_5/basic-authentication-plugin.html#basic-authentication-plugin) from apache solr guide to enable solr secuity.
 
 ## Class Diagram
 ![image](https://user-images.githubusercontent.com/4725611/195236124-bf88962c-f428-48f3-9216-19ede7794670.png)
